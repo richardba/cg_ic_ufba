@@ -10,7 +10,7 @@ I bookmarked [this](http://stainlessbeer.weebly.com/planets-1-mercators.html) si
 
 Random interlude: How [homeworld] (http://simonschreibt.blogspot.de/2013/03/homeworld-backgrounds.html) [did](http://simonschreibt.blogspot.de/2013/03/homeworld-2-backgroundstech.html) its background.
 
-[Eric Bruneton](http://evasion.inrialpes.fr/)Eric.Bruneton/) has published a number of recent (2008-2012) on realistic rendering. One such is a precomputed atmospheric scattering shader which, while more complicated, is an improvement to oneil's. 
+[Eric Bruneton](http://evasion.inrialpes.fr/~Eric.Bruneton/) has published a number of recent (2008-2012) on realistic rendering. One such is a precomputed atmospheric scattering shader which, while more complicated, is an improvement to oneil's. 
 
 [John Whigham](http://johnwhigham.blogspot.com/) blog has covered assorted procedural planet generation elements.
 
