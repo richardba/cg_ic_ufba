@@ -8,7 +8,7 @@ At Siggraph 2007 Maxis did [several presentations](http://www.andrewwillmott.com
 
 I bookmarked [this](http://stainlessbeer.weebly.com/planets-1-mercators.html) site a while ago. This site has 10 tutorials that focus more on procedural generation of various planet types. My project takes place in our solar system so I have not spent much time looking into procedural generation practices.
 
-Random interlude: How [homeworld] (http://simonschreibt.blogspot.de/2013/03/homeworld-backgrounds.html) [did](http://simonschreibt.blogspot.de/2013/03/homeworld-2-backgroundstech.html) its background.
+Random interlude: How [homeworld](http://simonschreibt.blogspot.de/2013/03/homeworld-backgrounds.html) [did](http://simonschreibt.blogspot.de/2013/03/homeworld-2-backgroundstech.html) its background.
 
 [Eric Bruneton](http://evasion.inrialpes.fr/~Eric.Bruneton/) has published a number of recent (2008-2012) on realistic rendering. One such is a precomputed atmospheric scattering shader which, while more complicated, is an improvement to oneil's. 
 
