@@ -23,6 +23,6 @@ Random interlude: How [homeworld] (http://simonschreibt.blogspot.de/2013/03/home
 There is another site in german with a lot of tutorials on procedural planets. Alas I could not find it.
 
 
-[Here](http://www.sperlhofer.com/images/stories/atmospheric/thesis-sperlhofer.pdf) is a thesis that helps explains bruneton's atmosphere scattering method. (https://www.youtube.com/watch?v=GmVKyp1APhY)[Video]
+[Here](http://www.sperlhofer.com/images/stories/atmospheric/thesis-sperlhofer.pdf) is a thesis that helps explains bruneton's atmosphere scattering method. [Video](https://www.youtube.com/watch?v=GmVKyp1APhY)
 
 [VTerrain](http://vterrain.org) contains links to a lot of sources on real time terrain rendering.
